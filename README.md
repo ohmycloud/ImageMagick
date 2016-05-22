@@ -1,4 +1,4 @@
 # ImageMagick
 
 - 翻译了一些相关命令
-- 比较随机
+- 把 txt 格式转换为 Markdown 格式
